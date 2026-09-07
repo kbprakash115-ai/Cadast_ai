@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "gnss_survey_pegs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "PEG_001", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.356916829461539, 18.532593426262274 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_002", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.357150391435411, 18.532337906667006 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_003", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.356898863155863, 18.53228680270211 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_004", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.35713242512972, 18.531997213279102 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_005", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.35724022296381, 18.532559357004974 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_006", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.357581582771786, 18.532269768043754 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_007", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.357258189269501, 18.532235698721944 ] } },
+{ "type": "Feature", "properties": { "id": "PEG_008", "type": "boundary_marker" }, "geometry": { "type": "Point", "coordinates": [ 76.357599549077463, 18.531980178591883 ] } }
+]
+}

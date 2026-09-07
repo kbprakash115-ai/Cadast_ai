@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "roads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "RD_0001", "class": "road", "confidence": 0.88, "length_m": 152.2, "width_m": 6.2 }, "geometry": { "type": "LineString", "coordinates": [ [ 76.357182730785624, 18.531895005130306 ], [ 76.357689380605876, 18.531896708599955 ], [ 76.357691177236461, 18.532712668609332 ] ] } },
+{ "type": "Feature", "properties": { "id": "RD_0002", "class": "road", "confidence": 0.88, "length_m": 96.4, "width_m": 5.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 76.357182730785624, 18.532717778993778 ], [ 76.357180934155068, 18.531896708599955 ] ] } },
+{ "type": "Feature", "properties": { "id": "RD_0003", "class": "road", "confidence": 0.88, "length_m": 39.2, "width_m": 6.4 }, "geometry": { "type": "LineString", "coordinates": [ [ 76.357179137524511, 18.531895005130306 ], [ 76.356826997933126, 18.531895005130306 ] ] } }
+]
+}

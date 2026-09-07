@@ -1,0 +1,24 @@
+{
+  "processing_time_seconds": 3.62,
+  "input_file": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\sample_data\\drone_ori.tif",
+  "dimensions_px": "1024x1024",
+  "crs": "EPSG:3857",
+  "counts": {
+    "buildings": 15,
+    "roads": 6,
+    "parcels": 14,
+    "land_use_polygons": 21
+  },
+  "metrics": {
+    "total_building_footprint_sqm": 16558.88,
+    "total_road_network_km": 0.484,
+    "total_parcel_area_hectares": 3.695
+  },
+  "outputs": {
+    "geopackage": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\output\\cadastral_output.gpkg",
+    "buildings_geojson": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\output\\buildings.geojson",
+    "roads_geojson": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\output\\roads.geojson",
+    "parcels_geojson": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\output\\parcels.geojson",
+    "landuse_geojson": "C:\\Users\\kbpra\\Downloads\\New folder (3)\\output\\land_use.geojson"
+  }
+}
